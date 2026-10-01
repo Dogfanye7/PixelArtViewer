@@ -1,0 +1,8 @@
+{
+  "BackgroundColor": "#202020",
+  "HeaderColor": "#303030",
+  "SelectionColor": "#1E90FF",
+  "TextColor": "#FFFFFF",
+  "ImageOpenMode": "Aseprite",
+  "CustomImageEditorPath": null
+}
