@@ -2,7 +2,12 @@
   "BackgroundColor": "#202020",
   "HeaderColor": "#303030",
   "SelectionColor": "#1E90FF",
+  "ButtonColor": "#404040",
   "TextColor": "#FFFFFF",
-  "ImageOpenMode": "Aseprite",
+  "LastOpenedFolder": "C:\\Users\\Pichau\\Pictures\\textures\\block",
+  "FavoriteFolders": [
+    "C:\\Users\\Pichau\\Pictures\\textures\\block"
+  ],
+  "ImageOpenMode": "Default",
   "CustomImageEditorPath": null
 }
